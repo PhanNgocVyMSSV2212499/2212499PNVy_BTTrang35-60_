@@ -1,0 +1,10 @@
+C:\Users\pc\Downloads\Trang56\bin\Debug\Trang56.exe.config
+C:\Users\pc\Downloads\Trang56\bin\Debug\Trang56.exe
+C:\Users\pc\Downloads\Trang56\bin\Debug\Trang56.pdb
+C:\Users\pc\Downloads\Trang56\obj\Debug\Trang56.csproj.AssemblyReference.cache
+C:\Users\pc\Downloads\Trang56\obj\Debug\Trang56.Form1.resources
+C:\Users\pc\Downloads\Trang56\obj\Debug\Trang56.Properties.Resources.resources
+C:\Users\pc\Downloads\Trang56\obj\Debug\Trang56.csproj.GenerateResource.cache
+C:\Users\pc\Downloads\Trang56\obj\Debug\Trang56.csproj.CoreCompileInputs.cache
+C:\Users\pc\Downloads\Trang56\obj\Debug\Trang56.exe
+C:\Users\pc\Downloads\Trang56\obj\Debug\Trang56.pdb

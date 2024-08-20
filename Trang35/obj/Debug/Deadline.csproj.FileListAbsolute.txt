@@ -1,0 +1,10 @@
+C:\Users\pc\Downloads\Deadline\bin\Debug\Deadline.exe.config
+C:\Users\pc\Downloads\Deadline\bin\Debug\Deadline.exe
+C:\Users\pc\Downloads\Deadline\bin\Debug\Deadline.pdb
+C:\Users\pc\Downloads\Deadline\obj\Debug\Deadline.csproj.AssemblyReference.cache
+C:\Users\pc\Downloads\Deadline\obj\Debug\Deadline.Form1.resources
+C:\Users\pc\Downloads\Deadline\obj\Debug\Deadline.Properties.Resources.resources
+C:\Users\pc\Downloads\Deadline\obj\Debug\Deadline.csproj.GenerateResource.cache
+C:\Users\pc\Downloads\Deadline\obj\Debug\Deadline.csproj.CoreCompileInputs.cache
+C:\Users\pc\Downloads\Deadline\obj\Debug\Deadline.exe
+C:\Users\pc\Downloads\Deadline\obj\Debug\Deadline.pdb

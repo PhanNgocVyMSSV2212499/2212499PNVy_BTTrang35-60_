@@ -1,0 +1,10 @@
+C:\Users\pc\Downloads\Trang42\bin\Debug\Trang42.exe.config
+C:\Users\pc\Downloads\Trang42\bin\Debug\Trang42.exe
+C:\Users\pc\Downloads\Trang42\bin\Debug\Trang42.pdb
+C:\Users\pc\Downloads\Trang42\obj\Debug\Trang42.csproj.AssemblyReference.cache
+C:\Users\pc\Downloads\Trang42\obj\Debug\Trang42.Properties.Resources.resources
+C:\Users\pc\Downloads\Trang42\obj\Debug\Trang42.Submit.resources
+C:\Users\pc\Downloads\Trang42\obj\Debug\Trang42.csproj.GenerateResource.cache
+C:\Users\pc\Downloads\Trang42\obj\Debug\Trang42.csproj.CoreCompileInputs.cache
+C:\Users\pc\Downloads\Trang42\obj\Debug\Trang42.exe
+C:\Users\pc\Downloads\Trang42\obj\Debug\Trang42.pdb
